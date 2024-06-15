@@ -1,1 +1,4 @@
-
+=> type '$- git status' to check file status.
+=> type '-$ git add {_A, File Name, .}' for file to track.
+=> type '-$ git commit -m {any massage}' to commit file and write some description.
+=> Type '-$ git push -u origin main' to push my file in the GitHub directory.
